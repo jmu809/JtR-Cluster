@@ -11,7 +11,6 @@ Este proyecto permite el reparto de tareas de cracking entre múltiples nodos de
 - **Cliente.tgz**: Código fuente, binarios y scripts de los nodos de procesamiento.
 - **Server.tgz**: Código fuente y ejecutable del servidor principal de coordinación.
 - **Web.tgz**: Archivos de la interfaz web, scripts PHP y logs de gestión.
-- **john.tgz**: Binarios, configuraciones y recursos personalizados de John the Ripper (si aplica).
 
 ## Instrucciones de uso
 
